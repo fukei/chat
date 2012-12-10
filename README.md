@@ -5,12 +5,19 @@ Tiny chat application using Node.js and  socket.io and jQueryMobile
 
 How to use
 ---
+    git clone http://github.com/isaacs/nave.git
+    cd nave
+    ./nave.sh use stable
+    curl http://npmjs.org/install.sh | sh
+    
     sudo apt-get install mongodb    (ubuntu)
 
     git clone https://github.com/kohuk/chat.git
     cd chat
     npm install
     node app.js
+    
+    ブラウザでhttp://localhost:3333にアクセス
 
 Changelog
 ---
