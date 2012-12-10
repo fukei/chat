@@ -1,5 +1,5 @@
 // Client
-var socket = io.connect('http://ukh.jp');
+var socket = io.connect('/');
 var sessionid;
 var count;
 
